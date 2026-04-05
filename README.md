@@ -32,13 +32,13 @@ A versão executável do projeto (protótipo) pode ser acessada através do link
 
 <p align="center">
   <!-- Substitua pelos caminhos reais -->
-  <img src="(https://github.com/muvucka/unity-gamesDev-utfpr/blob/main/public/menu.png)" width="600" border-radiu="50px"/>
-  <img src="(https://github.com/muvucka/unity-gamesDev-utfpr/blob/main/public/frame.png)" width="600" border-radiu="50px"/>
-  <img src="(https://github.com/muvucka/unity-gamesDev-utfpr/blob/main/public/frame-move.png)" width="600" border-radiu="50px"/>
-  <img src="(https://github.com/muvucka/unity-gamesDev-utfpr/blob/main/public/frame-dash.png)" width="600" border-radiu="50px"/>
-  <img src="(https://github.com/muvucka/unity-gamesDev-utfpr/blob/main/public/frame-spike.png)" width="600" border-radiu="50px"/>
-  <img src="(https://github.com/muvucka/unity-gamesDev-utfpr/blob/main/public/frame-soco.png)" width="600" border-radiu="50px"/>
-  <img src="(https://github.com/muvucka/unity-gamesDev-utfpr/blob/main/public/frame-dano.png)" width="600" border-radiu="50px"/>
+  <img src="https://github.com/muvucka/unity-gamesDev-utfpr/blob/main/public/menu.png" width="600" style="border-radius:50px"/>
+  <img src="https://github.com/muvucka/unity-gamesDev-utfpr/blob/main/public/frame.png" width="600" style="border-radius:50px"/>
+  <img src="https://github.com/muvucka/unity-gamesDev-utfpr/blob/main/public/frame-move.png" width="600" style="border-radius:50px"/>
+  <img src="https://github.com/muvucka/unity-gamesDev-utfpr/blob/main/public/frame-dash.png" width="600" style="border-radius:50px"/>
+  <img src="https://github.com/muvucka/unity-gamesDev-utfpr/blob/main/public/frame-spike.png" width="600" style="border-radius:50px"/>
+  <img src="https://github.com/muvucka/unity-gamesDev-utfpr/blob/main/public/frame-soco.png" width="600" style="border-radius:50px"/>
+  <img src="https://github.com/muvucka/unity-gamesDev-utfpr/blob/main/public/frame-dano.png" width="600" style="border-radius:50px"/>
 </p>
 
 ---
