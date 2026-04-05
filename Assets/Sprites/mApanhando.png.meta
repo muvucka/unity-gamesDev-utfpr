@@ -1,0 +1,587 @@
+fileFormatVersion: 2
+guid: 21e0965a7a3165144a51a806906bbc2a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5096546399254848470
+    second: mApanhando_0
+  - first:
+      213: -4902426681008957680
+    second: mApanhando_1
+  - first:
+      213: -7886985434896134868
+    second: mApanhando_2
+  - first:
+      213: 8267320736132583375
+    second: mApanhando_3
+  - first:
+      213: -3932663321188424954
+    second: mApanhando_4
+  - first:
+      213: -7586018244723403020
+    second: mApanhando_5
+  - first:
+      213: -9013103601676281886
+    second: mApanhando_6
+  - first:
+      213: -372054397895445905
+    second: mApanhando_7
+  - first:
+      213: -8468134524824289498
+    second: mApanhando_8
+  - first:
+      213: -6566648627988864061
+    second: mApanhando_9
+  - first:
+      213: -3328152932345051017
+    second: mApanhando_10
+  - first:
+      213: -3982508015136428552
+    second: mApanhando_11
+  - first:
+      213: 7298742034523741672
+    second: mApanhando_12
+  - first:
+      213: 6380153671819101885
+    second: mApanhando_13
+  - first:
+      213: -4191942038243219646
+    second: mApanhando_14
+  - first:
+      213: -8817873077237113
+    second: mApanhando_15
+  - first:
+      213: -3018452937843083119
+    second: mApanhando_16
+  - first:
+      213: 4952719921449063638
+    second: mApanhando_17
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 59
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mApanhando_0
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 291
+        width: 24
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d3a1ec82f19ab640800000000000000
+      internalID: 5096546399254848470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mApanhando_1
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 306
+        width: 48
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 017501568e417fbb0800000000000000
+      internalID: -4902426681008957680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mApanhando_2
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 291
+        width: 24
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2d0654b88ccb8290800000000000000
+      internalID: -7886985434896134868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mApanhando_3
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 323
+        width: 96
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcf4769486c6bb270800000000000000
+      internalID: 8267320736132583375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mApanhando_4
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 335
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6032b57ab8f5c69c0800000000000000
+      internalID: -3932663321188424954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mApanhando_5
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 341
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f611af499c09b690800000000000000
+      internalID: -7586018244723403020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mApanhando_6
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 148
+        width: 55
+        height: 197
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e79a4a17060be280800000000000000
+      internalID: -9013103601676281886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mApanhando_7
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 143
+        width: 62
+        height: 122
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f62f1501f7236daf0800000000000000
+      internalID: -372054397895445905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mApanhando_8
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 143
+        width: 62
+        height: 122
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62f70a904842b7a80800000000000000
+      internalID: -8468134524824289498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mApanhando_9
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 148
+        width: 55
+        height: 117
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c3eaeb4dd39ed4a0800000000000000
+      internalID: -6566648627988864061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mApanhando_10
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 143
+        width: 62
+        height: 122
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77806659a8600d1d0800000000000000
+      internalID: -3328152932345051017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mApanhando_11
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 148
+        width: 55
+        height: 117
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fda5aa7f0a4bb8c0800000000000000
+      internalID: -3982508015136428552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mApanhando_12
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 143
+        width: 62
+        height: 122
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8eddff2c5375a4560800000000000000
+      internalID: 7298742034523741672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mApanhando_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 330
+        height: 133
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db68e2506fbda8850800000000000000
+      internalID: 6380153671819101885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mApanhando_14
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 10
+        width: 69
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2476c731dea33d5c0800000000000000
+      internalID: -4191942038243219646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mApanhando_15
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 1
+        width: 89
+        height: 83
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78a8e8fe03ca0eff0800000000000000
+      internalID: -8817873077237113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mApanhando_16
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 6
+        width: 83
+        height: 94
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 198f0a4ab0d4c16d0800000000000000
+      internalID: -3018452937843083119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mApanhando_17
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 10
+        width: 62
+        height: 121
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d4d8f527889bb440800000000000000
+      internalID: 4952719921449063638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 6a80ac2256de8224b881b8d097753f46
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      mApanhando_0: 5096546399254848470
+      mApanhando_1: -4902426681008957680
+      mApanhando_10: -3328152932345051017
+      mApanhando_11: -3982508015136428552
+      mApanhando_12: 7298742034523741672
+      mApanhando_13: 6380153671819101885
+      mApanhando_14: -4191942038243219646
+      mApanhando_15: -8817873077237113
+      mApanhando_16: -3018452937843083119
+      mApanhando_17: 4952719921449063638
+      mApanhando_2: -7886985434896134868
+      mApanhando_3: 8267320736132583375
+      mApanhando_4: -3932663321188424954
+      mApanhando_5: -7586018244723403020
+      mApanhando_6: -9013103601676281886
+      mApanhando_7: -372054397895445905
+      mApanhando_8: -8468134524824289498
+      mApanhando_9: -6566648627988864061
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

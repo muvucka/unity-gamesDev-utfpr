@@ -1,0 +1,639 @@
+fileFormatVersion: 2
+guid: 8bd347a46e9c5964ea44da5ee47ec121
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8413178269284150903
+    second: tile-morte-mobs-Photoroom (1)_0
+  - first:
+      213: 8491840638254087053
+    second: tile-morte-mobs-Photoroom (1)_1
+  - first:
+      213: -2012218107888257392
+    second: tile-morte-mobs-Photoroom (1)_2
+  - first:
+      213: -3764583447711921764
+    second: tile-morte-mobs-Photoroom (1)_3
+  - first:
+      213: 529545690190538299
+    second: tile-morte-mobs-Photoroom (1)_4
+  - first:
+      213: 4331214927932453030
+    second: tile-morte-mobs-Photoroom (1)_5
+  - first:
+      213: 3193896201864556920
+    second: tile-morte-mobs-Photoroom (1)_6
+  - first:
+      213: 4608216574590162204
+    second: tile-morte-mobs-Photoroom (1)_7
+  - first:
+      213: -7481120779343942295
+    second: tile-morte-mobs-Photoroom (1)_8
+  - first:
+      213: 6844778489720864321
+    second: tile-morte-mobs-Photoroom (1)_9
+  - first:
+      213: -7884112964673592028
+    second: tile-morte-mobs-Photoroom (1)_10
+  - first:
+      213: -4931263045549380250
+    second: tile-morte-mobs-Photoroom (1)_11
+  - first:
+      213: -4608661240753149360
+    second: tile-morte-mobs-Photoroom (1)_12
+  - first:
+      213: 3604755914237002155
+    second: tile-morte-mobs-Photoroom (1)_13
+  - first:
+      213: 3689677721148596776
+    second: tile-morte-mobs-Photoroom (1)_14
+  - first:
+      213: -1440445864333939682
+    second: tile-morte-mobs-Photoroom (1)_15
+  - first:
+      213: -5030063704924708330
+    second: tile-morte-mobs-Photoroom (1)_16
+  - first:
+      213: 3137578635302765259
+    second: tile-morte-mobs-Photoroom (1)_17
+  - first:
+      213: 6866115849496977868
+    second: tile-morte-mobs-Photoroom (1)_18
+  - first:
+      213: -8196208934255810912
+    second: tile-morte-mobs-Photoroom (1)_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 133
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tile-morte-mobs-Photoroom (1)_0
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 338
+        width: 152
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77ea7bc9f0d91c470800000000000000
+      internalID: 8413178269284150903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile-morte-mobs-Photoroom (1)_1
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 319
+        width: 187
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8b7c5c911419d570800000000000000
+      internalID: 8491840638254087053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile-morte-mobs-Photoroom (1)_2
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 317
+        width: 204
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09636b4ca4a2314e0800000000000000
+      internalID: -2012218107888257392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile-morte-mobs-Photoroom (1)_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 219
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c99c0d7cc4381cbc0800000000000000
+      internalID: -3764583447711921764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile-morte-mobs-Photoroom (1)_4
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 65
+        width: 168
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b366524eff2595700800000000000000
+      internalID: 529545690190538299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile-morte-mobs-Photoroom (1)_5
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 222
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a0784977019b1c30800000000000000
+      internalID: 4331214927932453030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile-morte-mobs-Photoroom (1)_6
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 214
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8713b917caff25c20800000000000000
+      internalID: 3193896201864556920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile-morte-mobs-Photoroom (1)_7
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 73
+        width: 155
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1593882f8ca3ff30800000000000000
+      internalID: 4608216574590162204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile-morte-mobs-Photoroom (1)_8
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 214
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96d2961b948bd2890800000000000000
+      internalID: -7481120779343942295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile-morte-mobs-Photoroom (1)_9
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 210
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14efb0e65c98dfe50800000000000000
+      internalID: 6844778489720864321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile-morte-mobs-Photoroom (1)_10
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 195
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 425249bc701069290800000000000000
+      internalID: -7884112964673592028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile-morte-mobs-Photoroom (1)_11
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 174
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66da4041362a09bb0800000000000000
+      internalID: -4931263045549380250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile-morte-mobs-Photoroom (1)_12
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 140
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05a2ccee40fba00c0800000000000000
+      internalID: -4608661240753149360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile-morte-mobs-Photoroom (1)_13
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 144
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba1c51ab76aa60230800000000000000
+      internalID: 3604755914237002155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile-morte-mobs-Photoroom (1)_14
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 104
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8222cb0b65e543330800000000000000
+      internalID: 3689677721148596776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile-morte-mobs-Photoroom (1)_15
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 101
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1ce1324e12820ce0800000000000000
+      internalID: -1440445864333939682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile-morte-mobs-Photoroom (1)_16
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 61
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 612a066f5bf913ab0800000000000000
+      internalID: -5030063704924708330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile-morte-mobs-Photoroom (1)_17
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 69
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc2831c252bea8b20800000000000000
+      internalID: 3137578635302765259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile-morte-mobs-Photoroom (1)_18
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 65
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc162f3acf7594f50800000000000000
+      internalID: 6866115849496977868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile-morte-mobs-Photoroom (1)_19
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 56
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a6acc05667314e80800000000000000
+      internalID: -8196208934255810912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5150d51048580ba44a1e32672aa36dca
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":300.0,"y":300.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      tile-morte-mobs-Photoroom (1)_0: 8413178269284150903
+      tile-morte-mobs-Photoroom (1)_1: 8491840638254087053
+      tile-morte-mobs-Photoroom (1)_10: -7884112964673592028
+      tile-morte-mobs-Photoroom (1)_11: -4931263045549380250
+      tile-morte-mobs-Photoroom (1)_12: -4608661240753149360
+      tile-morte-mobs-Photoroom (1)_13: 3604755914237002155
+      tile-morte-mobs-Photoroom (1)_14: 3689677721148596776
+      tile-morte-mobs-Photoroom (1)_15: -1440445864333939682
+      tile-morte-mobs-Photoroom (1)_16: -5030063704924708330
+      tile-morte-mobs-Photoroom (1)_17: 3137578635302765259
+      tile-morte-mobs-Photoroom (1)_18: 6866115849496977868
+      tile-morte-mobs-Photoroom (1)_19: -8196208934255810912
+      tile-morte-mobs-Photoroom (1)_2: -2012218107888257392
+      tile-morte-mobs-Photoroom (1)_3: -3764583447711921764
+      tile-morte-mobs-Photoroom (1)_4: 529545690190538299
+      tile-morte-mobs-Photoroom (1)_5: 4331214927932453030
+      tile-morte-mobs-Photoroom (1)_6: 3193896201864556920
+      tile-morte-mobs-Photoroom (1)_7: 4608216574590162204
+      tile-morte-mobs-Photoroom (1)_8: -7481120779343942295
+      tile-morte-mobs-Photoroom (1)_9: 6844778489720864321
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

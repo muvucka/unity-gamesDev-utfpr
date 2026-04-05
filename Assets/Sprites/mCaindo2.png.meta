@@ -1,0 +1,1263 @@
+fileFormatVersion: 2
+guid: 9208b1e4fe2e66a479cac8699d1fb837
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3091337384066888945
+    second: mCaindo2_0
+  - first:
+      213: 8126897478136875300
+    second: mCaindo2_1
+  - first:
+      213: -2035330248920718651
+    second: mCaindo2_2
+  - first:
+      213: -1110228564707444175
+    second: mCaindo2_3
+  - first:
+      213: -6599779558933112936
+    second: mCaindo2_4
+  - first:
+      213: -5109730690443942222
+    second: mCaindo2_5
+  - first:
+      213: 8119770521436092250
+    second: mCaindo2_6
+  - first:
+      213: -254654544120343781
+    second: mCaindo2_7
+  - first:
+      213: -6069435802958474249
+    second: mCaindo2_8
+  - first:
+      213: -3613541709558046
+    second: mCaindo2_9
+  - first:
+      213: 1365872368044611585
+    second: mCaindo2_10
+  - first:
+      213: -8189071133161696115
+    second: mCaindo2_11
+  - first:
+      213: 7502685730451040318
+    second: mCaindo2_12
+  - first:
+      213: 6998549960914906295
+    second: mCaindo2_13
+  - first:
+      213: -6608566464148692525
+    second: mCaindo2_14
+  - first:
+      213: -721135318232071509
+    second: mCaindo2_15
+  - first:
+      213: 7183655099865918576
+    second: mCaindo2_16
+  - first:
+      213: -3726030518656155272
+    second: mCaindo2_17
+  - first:
+      213: 3162812349413517241
+    second: mCaindo2_18
+  - first:
+      213: 2154718498184083094
+    second: mCaindo2_19
+  - first:
+      213: -1645491720709316545
+    second: mCaindo2_20
+  - first:
+      213: 5660944622359573328
+    second: mCaindo2_21
+  - first:
+      213: 3080844604220568028
+    second: mCaindo2_22
+  - first:
+      213: -7894304569668599239
+    second: mCaindo2_23
+  - first:
+      213: 7609315022031198347
+    second: mCaindo2_24
+  - first:
+      213: 6085620509228229810
+    second: mCaindo2_25
+  - first:
+      213: 8021773707665294598
+    second: mCaindo2_26
+  - first:
+      213: -6236257464376381283
+    second: mCaindo2_27
+  - first:
+      213: -2715849321739126772
+    second: mCaindo2_28
+  - first:
+      213: -2921294743390011539
+    second: mCaindo2_29
+  - first:
+      213: -6386209243750795770
+    second: mCaindo2_30
+  - first:
+      213: 885079785437238938
+    second: mCaindo2_31
+  - first:
+      213: -5542338606356654140
+    second: mCaindo2_32
+  - first:
+      213: -6083501769043758863
+    second: mCaindo2_33
+  - first:
+      213: -3495437394769042798
+    second: mCaindo2_34
+  - first:
+      213: 8249197329752136870
+    second: mCaindo2_35
+  - first:
+      213: -2640436146556441364
+    second: mCaindo2_36
+  - first:
+      213: 9201770155673722110
+    second: mCaindo2_37
+  - first:
+      213: 5374164121979446378
+    second: mCaindo2_38
+  - first:
+      213: -509646846751947005
+    second: mCaindo2_39
+  - first:
+      213: -5777997053576980540
+    second: mCaindo2_40
+  - first:
+      213: 508075313068716167
+    second: mCaindo2_41
+  - first:
+      213: 4555524969957126384
+    second: mCaindo2_42
+  - first:
+      213: -6569983977212698916
+    second: mCaindo2_43
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 59
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mCaindo2_0
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 1228
+        width: 70
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f43132e8f2a6ea20800000000000000
+      internalID: 3091337384066888945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mCaindo2_1
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 1238
+        width: 112
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 429cd5eb23a88c070800000000000000
+      internalID: 8126897478136875300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mCaindo2_2
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 1241
+        width: 112
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c229781ced01c3e0800000000000000
+      internalID: -2035330248920718651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mCaindo2_3
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 1250
+        width: 127
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13afe1da00da790f0800000000000000
+      internalID: -1110228564707444175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mCaindo2_4
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 1256
+        width: 112
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89758e1557fd864a0800000000000000
+      internalID: -6599779558933112936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mCaindo2_5
+      rect:
+        serializedVersion: 2
+        x: 1449
+        y: 1268
+        width: 127
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b66d2272079619b0800000000000000
+      internalID: -5109730690443942222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mCaindo2_6
+      rect:
+        serializedVersion: 2
+        x: 1756
+        y: 1277
+        width: 112
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a57f2e3d4483fa070800000000000000
+      internalID: 8119770521436092250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mCaindo2_7
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 1085
+        width: 127
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1394459a09477cf0800000000000000
+      internalID: -254654544120343781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mCaindo2_8
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 1094
+        width: 127
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f35f916b4805cba0800000000000000
+      internalID: -6069435802958474249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mCaindo2_9
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 1137
+        width: 49
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ee4502c08923fff0800000000000000
+      internalID: -3613541709558046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mCaindo2_10
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 1129
+        width: 49
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10812d99ead84f210800000000000000
+      internalID: 1365872368044611585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mCaindo2_11
+      rect:
+        serializedVersion: 2
+        x: 1318
+        y: 1128
+        width: 48
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d84dd7321339a5e80800000000000000
+      internalID: -8189071133161696115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mCaindo2_12
+      rect:
+        serializedVersion: 2
+        x: 1573
+        y: 1074
+        width: 74
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e382de0cbe4ee1860800000000000000
+      internalID: 7502685730451040318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mCaindo2_13
+      rect:
+        serializedVersion: 2
+        x: 1848
+        y: 1052
+        width: 74
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bc282b0c18df1160800000000000000
+      internalID: 6998549960914906295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mCaindo2_14
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 839
+        width: 74
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d1abd580d7a944a0800000000000000
+      internalID: -6608566464148692525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mCaindo2_15
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 841
+        width: 74
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba20ac1bf330ef5f0800000000000000
+      internalID: -721135318232071509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mCaindo2_16
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 842
+        width: 74
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07c6e60b04871b360800000000000000
+      internalID: 7183655099865918576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mCaindo2_17
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 848
+        width: 74
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8714c311cfa7a4cc0800000000000000
+      internalID: -3726030518656155272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mCaindo2_18
+      rect:
+        serializedVersion: 2
+        x: 1298
+        y: 848
+        width: 75
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b7e202131194eb20800000000000000
+      internalID: 3162812349413517241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mCaindo2_19
+      rect:
+        serializedVersion: 2
+        x: 1573
+        y: 846
+        width: 75
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 696b933de0917ed10800000000000000
+      internalID: 2154718498184083094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mCaindo2_20
+      rect:
+        serializedVersion: 2
+        x: 1848
+        y: 846
+        width: 74
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f30664a8ff90a29e0800000000000000
+      internalID: -1645491720709316545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mCaindo2_21
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 642
+        width: 74
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05376ec1427bf8e40800000000000000
+      internalID: 5660944622359573328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mCaindo2_22
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 642
+        width: 75
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd1feb238db51ca20800000000000000
+      internalID: 3080844604220568028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mCaindo2_23
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 644
+        width: 59
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9320928d1dbc17290800000000000000
+      internalID: -7894304569668599239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mCaindo2_24
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 659
+        width: 59
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b88963852b7b99960800000000000000
+      internalID: 7609315022031198347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mCaindo2_25
+      rect:
+        serializedVersion: 2
+        x: 1259
+        y: 697
+        width: 89
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b461623c97747450800000000000000
+      internalID: 6085620509228229810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mCaindo2_26
+      rect:
+        serializedVersion: 2
+        x: 1523
+        y: 706
+        width: 89
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60545f99fa0135f60800000000000000
+      internalID: 8021773707665294598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mCaindo2_27
+      rect:
+        serializedVersion: 2
+        x: 1787
+        y: 713
+        width: 89
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d90b7f390ec5479a0800000000000000
+      internalID: -6236257464376381283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mCaindo2_28
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 516
+        width: 97
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c08f04a5e6d5f4ad0800000000000000
+      internalID: -2715849321739126772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mCaindo2_29
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 517
+        width: 97
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6fb50898e97577d0800000000000000
+      internalID: -2921294743390011539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mCaindo2_30
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 518
+        width: 121
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 606fae44780af57a0800000000000000
+      internalID: -6386209243750795770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mCaindo2_31
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 514
+        width: 121
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a969dd0206f684c00800000000000000
+      internalID: 885079785437238938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mCaindo2_32
+      rect:
+        serializedVersion: 2
+        x: 1154
+        y: 486
+        width: 108
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c79d2fe668a513b0800000000000000
+      internalID: -5542338606356654140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mCaindo2_33
+      rect:
+        serializedVersion: 2
+        x: 1420
+        y: 482
+        width: 108
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f0bfa17f5f039ba0800000000000000
+      internalID: -6083501769043758863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mCaindo2_34
+      rect:
+        serializedVersion: 2
+        x: 1675
+        y: 464
+        width: 111
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 292ac268536bd7fc0800000000000000
+      internalID: -3495437394769042798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mCaindo2_35
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 251
+        width: 111
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ac1af9e3490b7270800000000000000
+      internalID: 8249197329752136870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mCaindo2_36
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 228
+        width: 99
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cece66870594b5bd0800000000000000
+      internalID: -2640436146556441364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mCaindo2_37
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 213
+        width: 99
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efc19b9143143bf70800000000000000
+      internalID: 9201770155673722110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mCaindo2_38
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 207
+        width: 70
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a64eb3f9bcdd49a40800000000000000
+      internalID: 5374164121979446378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mCaindo2_39
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 206
+        width: 74
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 307c372a4ee5de8f0800000000000000
+      internalID: -509646846751947005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mCaindo2_40
+      rect:
+        serializedVersion: 2
+        x: 1398
+        y: 208
+        width: 70
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c75a4cfa4e60dfa0800000000000000
+      internalID: -5777997053576980540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mCaindo2_41
+      rect:
+        serializedVersion: 2
+        x: 1681
+        y: 212
+        width: 63
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7803b9a2ecb0d0700800000000000000
+      internalID: 508075313068716167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mCaindo2_42
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 8
+        width: 62
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f077bfe2d9783f30800000000000000
+      internalID: 4555524969957126384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mCaindo2_43
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 0
+        width: 1650
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cde9a3ac16ab2d4a0800000000000000
+      internalID: -6569983977212698916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 0df749b8d5c266046a1b11734e302d8a
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      mCaindo2_0: 3091337384066888945
+      mCaindo2_1: 8126897478136875300
+      mCaindo2_10: 1365872368044611585
+      mCaindo2_11: -8189071133161696115
+      mCaindo2_12: 7502685730451040318
+      mCaindo2_13: 6998549960914906295
+      mCaindo2_14: -6608566464148692525
+      mCaindo2_15: -721135318232071509
+      mCaindo2_16: 7183655099865918576
+      mCaindo2_17: -3726030518656155272
+      mCaindo2_18: 3162812349413517241
+      mCaindo2_19: 2154718498184083094
+      mCaindo2_2: -2035330248920718651
+      mCaindo2_20: -1645491720709316545
+      mCaindo2_21: 5660944622359573328
+      mCaindo2_22: 3080844604220568028
+      mCaindo2_23: -7894304569668599239
+      mCaindo2_24: 7609315022031198347
+      mCaindo2_25: 6085620509228229810
+      mCaindo2_26: 8021773707665294598
+      mCaindo2_27: -6236257464376381283
+      mCaindo2_28: -2715849321739126772
+      mCaindo2_29: -2921294743390011539
+      mCaindo2_3: -1110228564707444175
+      mCaindo2_30: -6386209243750795770
+      mCaindo2_31: 885079785437238938
+      mCaindo2_32: -5542338606356654140
+      mCaindo2_33: -6083501769043758863
+      mCaindo2_34: -3495437394769042798
+      mCaindo2_35: 8249197329752136870
+      mCaindo2_36: -2640436146556441364
+      mCaindo2_37: 9201770155673722110
+      mCaindo2_38: 5374164121979446378
+      mCaindo2_39: -509646846751947005
+      mCaindo2_4: -6599779558933112936
+      mCaindo2_40: -5777997053576980540
+      mCaindo2_41: 508075313068716167
+      mCaindo2_42: 4555524969957126384
+      mCaindo2_43: -6569983977212698916
+      mCaindo2_5: -5109730690443942222
+      mCaindo2_6: 8119770521436092250
+      mCaindo2_7: -254654544120343781
+      mCaindo2_8: -6069435802958474249
+      mCaindo2_9: -3613541709558046
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

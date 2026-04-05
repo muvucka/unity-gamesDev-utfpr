@@ -1,0 +1,483 @@
+fileFormatVersion: 2
+guid: cd1bffb8347109341ace1882b47d9183
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3447484177857514919
+    second: mSoco0_0
+  - first:
+      213: -8927538815757293377
+    second: mSoco0_1
+  - first:
+      213: -3615240080518278736
+    second: mSoco0_2
+  - first:
+      213: -6064835033673986805
+    second: mSoco0_3
+  - first:
+      213: 4580407193715783103
+    second: mSoco0_4
+  - first:
+      213: -3081569443690550965
+    second: mSoco0_5
+  - first:
+      213: -6643337537325512115
+    second: mSoco0_6
+  - first:
+      213: -4888055643680863300
+    second: mSoco0_7
+  - first:
+      213: -4266142318745405666
+    second: mSoco0_8
+  - first:
+      213: 5155389405365212891
+    second: mSoco0_9
+  - first:
+      213: -3031500943336808503
+    second: mSoco0_10
+  - first:
+      213: 5427725275816665430
+    second: mSoco0_11
+  - first:
+      213: -2518035323591705662
+    second: mSoco0_12
+  - first:
+      213: -601292396332331572
+    second: mSoco0_13
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 59
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mSoco0_0
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 104
+        width: 79
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ad0afd189ce7df20800000000000000
+      internalID: 3447484177857514919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mSoco0_1
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 104
+        width: 84
+        height: 78
+      alignment: 9
+      pivot: {x: 0.5, y: 0.62}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb866484fb20b1480800000000000000
+      internalID: -8927538815757293377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mSoco0_2
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 104
+        width: 79
+        height: 86
+      alignment: 9
+      pivot: {x: 0.5, y: 0.55}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b114f61d4614ddc0800000000000000
+      internalID: -3615240080518278736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mSoco0_3
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 104
+        width: 128
+        height: 87
+      alignment: 9
+      pivot: {x: 0.5, y: 0.55}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0d84847ba065dba0800000000000000
+      internalID: -6064835033673986805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mSoco0_4
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 104
+        width: 128
+        height: 87
+      alignment: 9
+      pivot: {x: 0.5, y: 0.55}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb5b21c1310e09f30800000000000000
+      internalID: 4580407193715783103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mSoco0_5
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 104
+        width: 128
+        height: 87
+      alignment: 9
+      pivot: {x: 0.5, y: 0.55}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b496026fae01c35d0800000000000000
+      internalID: -3081569443690550965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mSoco0_6
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 104
+        width: 128
+        height: 87
+      alignment: 9
+      pivot: {x: 0.5, y: 0.55}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4ac1bc25bf1ec3a0800000000000000
+      internalID: -6643337537325512115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mSoco0_7
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 2
+        width: 128
+        height: 87
+      alignment: 9
+      pivot: {x: 0.5, y: 0.55}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbb0f044a432a2cb0800000000000000
+      internalID: -4888055643680863300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mSoco0_8
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 2
+        width: 128
+        height: 87
+      alignment: 9
+      pivot: {x: 0.5, y: 0.55}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e173be10a2e9bc4c0800000000000000
+      internalID: -4266142318745405666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mSoco0_9
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 2
+        width: 108
+        height: 87
+      alignment: 9
+      pivot: {x: 0.5, y: 0.55}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd61b99895f9b8740800000000000000
+      internalID: 5155389405365212891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mSoco0_10
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 2
+        width: 74
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cfd52024f1fde5d0800000000000000
+      internalID: -3031500943336808503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mSoco0_11
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 2
+        width: 56
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 651267b8167235b40800000000000000
+      internalID: 5427725275816665430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mSoco0_12
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 2
+        width: 63
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cb3e6dd6342e0dd0800000000000000
+      internalID: -2518035323591705662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mSoco0_13
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 2
+        width: 62
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccdc77650c7c7a7f0800000000000000
+      internalID: -601292396332331572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 990cea099e13fa347902721cfe349daf
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      mSoco0_0: 3447484177857514919
+      mSoco0_1: -8927538815757293377
+      mSoco0_10: -3031500943336808503
+      mSoco0_11: 5427725275816665430
+      mSoco0_12: -2518035323591705662
+      mSoco0_13: -601292396332331572
+      mSoco0_2: -3615240080518278736
+      mSoco0_3: -6064835033673986805
+      mSoco0_4: 4580407193715783103
+      mSoco0_5: -3081569443690550965
+      mSoco0_6: -6643337537325512115
+      mSoco0_7: -4888055643680863300
+      mSoco0_8: -4266142318745405666
+      mSoco0_9: 5155389405365212891
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

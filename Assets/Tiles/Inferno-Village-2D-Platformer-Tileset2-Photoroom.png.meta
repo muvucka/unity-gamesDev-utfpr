@@ -1,0 +1,1757 @@
+fileFormatVersion: 2
+guid: 6376dd6f12886074f842cd2ef742f2a7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8424675365084149056
+    second: Inferno-Village-2D-Platformer-Tileset2-Photoroom_0
+  - first:
+      213: -1078959078781460157
+    second: Inferno-Village-2D-Platformer-Tileset2-Photoroom_1
+  - first:
+      213: 6412038948220999740
+    second: Inferno-Village-2D-Platformer-Tileset2-Photoroom_2
+  - first:
+      213: 1373884527982424703
+    second: Inferno-Village-2D-Platformer-Tileset2-Photoroom_3
+  - first:
+      213: 57768145948084744
+    second: Inferno-Village-2D-Platformer-Tileset2-Photoroom_4
+  - first:
+      213: 9073041659908474302
+    second: Inferno-Village-2D-Platformer-Tileset2-Photoroom_5
+  - first:
+      213: 2513870580277574415
+    second: Inferno-Village-2D-Platformer-Tileset2-Photoroom_6
+  - first:
+      213: 8155244188156395059
+    second: Inferno-Village-2D-Platformer-Tileset2-Photoroom_7
+  - first:
+      213: -1412439038252521970
+    second: Inferno-Village-2D-Platformer-Tileset2-Photoroom_8
+  - first:
+      213: -7094717386147036231
+    second: Inferno-Village-2D-Platformer-Tileset2-Photoroom_9
+  - first:
+      213: -518178304788689342
+    second: Inferno-Village-2D-Platformer-Tileset2-Photoroom_10
+  - first:
+      213: 6758426003786159902
+    second: Inferno-Village-2D-Platformer-Tileset2-Photoroom_11
+  - first:
+      213: -637847195194851662
+    second: Inferno-Village-2D-Platformer-Tileset2-Photoroom_12
+  - first:
+      213: -1644502052684714358
+    second: Inferno-Village-2D-Platformer-Tileset2-Photoroom_13
+  - first:
+      213: -2288172593418669914
+    second: Inferno-Village-2D-Platformer-Tileset2-Photoroom_14
+  - first:
+      213: -5592091597694528641
+    second: Inferno-Village-2D-Platformer-Tileset2-Photoroom_15
+  - first:
+      213: -5775520607468734394
+    second: Inferno-Village-2D-Platformer-Tileset2-Photoroom_16
+  - first:
+      213: 4453804020487225020
+    second: Inferno-Village-2D-Platformer-Tileset2-Photoroom_17
+  - first:
+      213: 7349989191129840985
+    second: Inferno-Village-2D-Platformer-Tileset2-Photoroom_18
+  - first:
+      213: -2660937470540220953
+    second: Inferno-Village-2D-Platformer-Tileset2-Photoroom_19
+  - first:
+      213: 5227362734483632216
+    second: Inferno-Village-2D-Platformer-Tileset2-Photoroom_20
+  - first:
+      213: -2621515729091901230
+    second: Inferno-Village-2D-Platformer-Tileset2-Photoroom_21
+  - first:
+      213: 6578217961587769348
+    second: Inferno-Village-2D-Platformer-Tileset2-Photoroom_22
+  - first:
+      213: 537663046967065231
+    second: Inferno-Village-2D-Platformer-Tileset2-Photoroom_23
+  - first:
+      213: -7620801750997466067
+    second: Inferno-Village-2D-Platformer-Tileset2-Photoroom_24
+  - first:
+      213: 6623011425455276224
+    second: Inferno-Village-2D-Platformer-Tileset2-Photoroom_25
+  - first:
+      213: -994857834159234059
+    second: Inferno-Village-2D-Platformer-Tileset2-Photoroom_26
+  - first:
+      213: -4488457053217096767
+    second: Inferno-Village-2D-Platformer-Tileset2-Photoroom_27
+  - first:
+      213: 5991863658928599463
+    second: Inferno-Village-2D-Platformer-Tileset2-Photoroom_28
+  - first:
+      213: -2843964592095673634
+    second: Inferno-Village-2D-Platformer-Tileset2-Photoroom_29
+  - first:
+      213: -3271712374619280123
+    second: Inferno-Village-2D-Platformer-Tileset2-Photoroom_30
+  - first:
+      213: 44088034128676819
+    second: Inferno-Village-2D-Platformer-Tileset2-Photoroom_31
+  - first:
+      213: 9110816453486334199
+    second: Inferno-Village-2D-Platformer-Tileset2-Photoroom_32
+  - first:
+      213: -4645387197383808329
+    second: Inferno-Village-2D-Platformer-Tileset2-Photoroom_33
+  - first:
+      213: 4567323476287443463
+    second: Inferno-Village-2D-Platformer-Tileset2-Photoroom_34
+  - first:
+      213: -4514118445093041382
+    second: Inferno-Village-2D-Platformer-Tileset2-Photoroom_35
+  - first:
+      213: 2363938715147944563
+    second: Inferno-Village-2D-Platformer-Tileset2-Photoroom_36
+  - first:
+      213: 2592234331868642111
+    second: Inferno-Village-2D-Platformer-Tileset2-Photoroom_37
+  - first:
+      213: 6643817486298833666
+    second: Inferno-Village-2D-Platformer-Tileset2-Photoroom_38
+  - first:
+      213: 206853331232118634
+    second: Inferno-Village-2D-Platformer-Tileset2-Photoroom_39
+  - first:
+      213: 5813278681028317303
+    second: Inferno-Village-2D-Platformer-Tileset2-Photoroom_40
+  - first:
+      213: 5207518568850611425
+    second: Inferno-Village-2D-Platformer-Tileset2-Photoroom_41
+  - first:
+      213: 4946487880782094389
+    second: Inferno-Village-2D-Platformer-Tileset2-Photoroom_42
+  - first:
+      213: 1264958148793668906
+    second: Inferno-Village-2D-Platformer-Tileset2-Photoroom_43
+  - first:
+      213: -2987046104463585618
+    second: Inferno-Village-2D-Platformer-Tileset2-Photoroom_44
+  - first:
+      213: -8840074079113983956
+    second: Inferno-Village-2D-Platformer-Tileset2-Photoroom_45
+  - first:
+      213: -8433635687923727446
+    second: Inferno-Village-2D-Platformer-Tileset2-Photoroom_46
+  - first:
+      213: 1384263887896953541
+    second: Inferno-Village-2D-Platformer-Tileset2-Photoroom_47
+  - first:
+      213: 4139833805689534528
+    second: Inferno-Village-2D-Platformer-Tileset2-Photoroom_48
+  - first:
+      213: -4920483696421362944
+    second: Inferno-Village-2D-Platformer-Tileset2-Photoroom_49
+  - first:
+      213: -394537372006594780
+    second: Inferno-Village-2D-Platformer-Tileset2-Photoroom_50
+  - first:
+      213: 8906916221090151470
+    second: Inferno-Village-2D-Platformer-Tileset2-Photoroom_51
+  - first:
+      213: -3115878686588573538
+    second: Inferno-Village-2D-Platformer-Tileset2-Photoroom_52
+  - first:
+      213: -4406544136561350983
+    second: Inferno-Village-2D-Platformer-Tileset2-Photoroom_53
+  - first:
+      213: 6860682340844005394
+    second: Inferno-Village-2D-Platformer-Tileset2-Photoroom_54
+  - first:
+      213: 64951628653325807
+    second: Inferno-Village-2D-Platformer-Tileset2-Photoroom_55
+  - first:
+      213: -7211878770801297908
+    second: Inferno-Village-2D-Platformer-Tileset2-Photoroom_56
+  - first:
+      213: 3078227673118496838
+    second: Inferno-Village-2D-Platformer-Tileset2-Photoroom_57
+  - first:
+      213: 8891192030605043777
+    second: Inferno-Village-2D-Platformer-Tileset2-Photoroom_58
+  - first:
+      213: -6815609335100276852
+    second: Inferno-Village-2D-Platformer-Tileset2-Photoroom_59
+  - first:
+      213: -2419890560391916834
+    second: Inferno-Village-2D-Platformer-Tileset2-Photoroom_60
+  - first:
+      213: 6109483018403703640
+    second: Inferno-Village-2D-Platformer-Tileset2-Photoroom_61
+  - first:
+      213: 3117582240687487648
+    second: Inferno-Village-2D-Platformer-Tileset2-Photoroom_62
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 71
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Inferno-Village-2D-Platformer-Tileset2-Photoroom_0
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 739
+        width: 65
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04533d3db957ae470800000000000000
+      internalID: 8424675365084149056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inferno-Village-2D-Platformer-Tileset2-Photoroom_1
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 737
+        width: 71
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3416c063f64c601f0800000000000000
+      internalID: -1078959078781460157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inferno-Village-2D-Platformer-Tileset2-Photoroom_2
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 737
+        width: 71
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c389ea273732cf850800000000000000
+      internalID: 6412038948220999740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inferno-Village-2D-Platformer-Tileset2-Photoroom_3
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 736
+        width: 71
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f723cc4f2b4011310800000000000000
+      internalID: 1373884527982424703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inferno-Village-2D-Platformer-Tileset2-Photoroom_4
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 736
+        width: 71
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80a819a92db3dc000800000000000000
+      internalID: 57768145948084744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inferno-Village-2D-Platformer-Tileset2-Photoroom_5
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 570
+        width: 225
+        height: 234
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb54a23915be9ed70800000000000000
+      internalID: 9073041659908474302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inferno-Village-2D-Platformer-Tileset2-Photoroom_6
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 736
+        width: 68
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0bffb449ff03e220800000000000000
+      internalID: 2513870580277574415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inferno-Village-2D-Platformer-Tileset2-Photoroom_7
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 773
+        width: 71
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33e71ab716f3d2170800000000000000
+      internalID: 8155244188156395059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inferno-Village-2D-Platformer-Tileset2-Photoroom_8
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 743
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e06601a9d22066ce0800000000000000
+      internalID: -1412439038252521970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inferno-Village-2D-Platformer-Tileset2-Photoroom_9
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 744
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b30be070208a8d90800000000000000
+      internalID: -7094717386147036231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inferno-Village-2D-Platformer-Tileset2-Photoroom_10
+      rect:
+        serializedVersion: 2
+        x: 1077
+        y: 780
+        width: 61
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24e81c4c39f0fc8f0800000000000000
+      internalID: -518178304788689342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inferno-Village-2D-Platformer-Tileset2-Photoroom_11
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 779
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e17df6c84a0cacd50800000000000000
+      internalID: 6758426003786159902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inferno-Village-2D-Platformer-Tileset2-Photoroom_12
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 777
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2be7e6dfa59e527f0800000000000000
+      internalID: -637847195194851662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inferno-Village-2D-Platformer-Tileset2-Photoroom_13
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 737
+        width: 68
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8ea355981e8d29e0800000000000000
+      internalID: -1644502052684714358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inferno-Village-2D-Platformer-Tileset2-Photoroom_14
+      rect:
+        serializedVersion: 2
+        x: 1077
+        y: 740
+        width: 60
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a0fe784627ce30e0800000000000000
+      internalID: -2288172593418669914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inferno-Village-2D-Platformer-Tileset2-Photoroom_15
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 740
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7398ffe156e462b0800000000000000
+      internalID: -5592091597694528641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inferno-Village-2D-Platformer-Tileset2-Photoroom_16
+      rect:
+        serializedVersion: 2
+        x: 1197
+        y: 740
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 648b0e68b9a39dfa0800000000000000
+      internalID: -5775520607468734394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inferno-Village-2D-Platformer-Tileset2-Photoroom_17
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 660
+        width: 72
+        height: 72
+      alignment: 9
+      pivot: {x: 0.41, y: 0.488}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbef85cc8271fcd30800000000000000
+      internalID: 4453804020487225020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inferno-Village-2D-Platformer-Tileset2-Photoroom_18
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 659
+        width: 71
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95d31483a38600660800000000000000
+      internalID: 7349989191129840985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inferno-Village-2D-Platformer-Tileset2-Photoroom_19
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 658
+        width: 71
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e57ce20873721bd0800000000000000
+      internalID: -2660937470540220953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inferno-Village-2D-Platformer-Tileset2-Photoroom_20
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 659
+        width: 71
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 850f20516b25b8840800000000000000
+      internalID: 5227362734483632216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inferno-Village-2D-Platformer-Tileset2-Photoroom_21
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 659
+        width: 71
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d8c06275518e9bd0800000000000000
+      internalID: -2621515729091901230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inferno-Village-2D-Platformer-Tileset2-Photoroom_22
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 664
+        width: 70
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 400888712668a4b50800000000000000
+      internalID: 6578217961587769348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inferno-Village-2D-Platformer-Tileset2-Photoroom_23
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 664
+        width: 60
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8a735b41b9267700800000000000000
+      internalID: 537663046967065231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inferno-Village-2D-Platformer-Tileset2-Photoroom_24
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 664
+        width: 63
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d240f182f297d3690800000000000000
+      internalID: -7620801750997466067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inferno-Village-2D-Platformer-Tileset2-Photoroom_25
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 664
+        width: 70
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c08d9d1dc9a9eb50800000000000000
+      internalID: 6623011425455276224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inferno-Village-2D-Platformer-Tileset2-Photoroom_26
+      rect:
+        serializedVersion: 2
+        x: 1073
+        y: 664
+        width: 69
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f3ace0221e8132f0800000000000000
+      internalID: -994857834159234059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inferno-Village-2D-Platformer-Tileset2-Photoroom_27
+      rect:
+        serializedVersion: 2
+        x: 1157
+        y: 664
+        width: 70
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cbf569471cc5b1c0800000000000000
+      internalID: -4488457053217096767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inferno-Village-2D-Platformer-Tileset2-Photoroom_28
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 583
+        width: 54
+        height: 72
+      alignment: 9
+      pivot: {x: 0.3, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a1f2056040672350800000000000000
+      internalID: 5991863658928599463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inferno-Village-2D-Platformer-Tileset2-Photoroom_29
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 582
+        width: 71
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed2495e75453888d0800000000000000
+      internalID: -2843964592095673634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inferno-Village-2D-Platformer-Tileset2-Photoroom_30
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 582
+        width: 72
+        height: 72
+      alignment: 9
+      pivot: {x: 0.6, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50d6197fdea8892d0800000000000000
+      internalID: -3271712374619280123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inferno-Village-2D-Platformer-Tileset2-Photoroom_31
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 584
+        width: 72
+        height: 72
+      alignment: 9
+      pivot: {x: 0.55, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d7c51d55d1ac9000800000000000000
+      internalID: 44088034128676819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inferno-Village-2D-Platformer-Tileset2-Photoroom_32
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 583
+        width: 53
+        height: 72
+      alignment: 9
+      pivot: {x: 0.7, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f056d31b4f107e70800000000000000
+      internalID: 9110816453486334199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inferno-Village-2D-Platformer-Tileset2-Photoroom_33
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 592
+        width: 70
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ba6acfc4f4488fb0800000000000000
+      internalID: -4645387197383808329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inferno-Village-2D-Platformer-Tileset2-Photoroom_34
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 592
+        width: 71
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7025a62c084626f30800000000000000
+      internalID: 4567323476287443463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inferno-Village-2D-Platformer-Tileset2-Photoroom_35
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 592
+        width: 68
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1bc036e031aa51c0800000000000000
+      internalID: -4514118445093041382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inferno-Village-2D-Platformer-Tileset2-Photoroom_36
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 592
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 372cf2b9cb56ec020800000000000000
+      internalID: 2363938715147944563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inferno-Village-2D-Platformer-Tileset2-Photoroom_37
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 592
+        width: 65
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3b3a9df36779f320800000000000000
+      internalID: 2592234331868642111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inferno-Village-2D-Platformer-Tileset2-Photoroom_38
+      rect:
+        serializedVersion: 2
+        x: 1156
+        y: 592
+        width: 71
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 203ee57adc4933c50800000000000000
+      internalID: 6643817486298833666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inferno-Village-2D-Platformer-Tileset2-Photoroom_39
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 448
+        width: 128
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6752b04204eed200800000000000000
+      internalID: 206853331232118634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inferno-Village-2D-Platformer-Tileset2-Photoroom_40
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 441
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7705b0b092aeca050800000000000000
+      internalID: 5813278681028317303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inferno-Village-2D-Platformer-Tileset2-Photoroom_41
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 515
+        width: 52
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ec57993c82d44840800000000000000
+      internalID: 5207518568850611425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inferno-Village-2D-Platformer-Tileset2-Photoroom_42
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 515
+        width: 69
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 530aacb158475a440800000000000000
+      internalID: 4946487880782094389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inferno-Village-2D-Platformer-Tileset2-Photoroom_43
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 514
+        width: 71
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a25159afbb80e8110800000000000000
+      internalID: 1264958148793668906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inferno-Village-2D-Platformer-Tileset2-Photoroom_44
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 515
+        width: 23
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaecbbfd461eb86d0800000000000000
+      internalID: -2987046104463585618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inferno-Village-2D-Platformer-Tileset2-Photoroom_45
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 514
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c28c546367fb15580800000000000000
+      internalID: -8840074079113983956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inferno-Village-2D-Platformer-Tileset2-Photoroom_46
+      rect:
+        serializedVersion: 2
+        x: 1158
+        y: 514
+        width: 68
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa3cf307605b5fa80800000000000000
+      internalID: -8433635687923727446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inferno-Village-2D-Platformer-Tileset2-Photoroom_47
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 441
+        width: 115
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c2cf710ca4e53310800000000000000
+      internalID: 1384263887896953541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inferno-Village-2D-Platformer-Tileset2-Photoroom_48
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 296
+        width: 228
+        height: 215
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 048374999e4a37930800000000000000
+      internalID: 4139833805689534528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inferno-Village-2D-Platformer-Tileset2-Photoroom_49
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 430
+        width: 71
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00324bfd52ee6bbb0800000000000000
+      internalID: -4920483696421362944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inferno-Village-2D-Platformer-Tileset2-Photoroom_50
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 430
+        width: 71
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4274eeab952568af0800000000000000
+      internalID: -394537372006594780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inferno-Village-2D-Platformer-Tileset2-Photoroom_51
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 430
+        width: 71
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2c3e3abc19bb9b70800000000000000
+      internalID: 8906916221090151470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inferno-Village-2D-Platformer-Tileset2-Photoroom_52
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 437
+        width: 79
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e986daad7dc22c4d0800000000000000
+      internalID: -3115878686588573538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inferno-Village-2D-Platformer-Tileset2-Photoroom_53
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 430
+        width: 80
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b62e25647fc8d2c0800000000000000
+      internalID: -4406544136561350983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inferno-Village-2D-Platformer-Tileset2-Photoroom_54
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 430
+        width: 79
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2186dc25d3a063f50800000000000000
+      internalID: 6860682340844005394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inferno-Village-2D-Platformer-Tileset2-Photoroom_55
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 291
+        width: 126
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fede6718921c6e000800000000000000
+      internalID: 64951628653325807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inferno-Village-2D-Platformer-Tileset2-Photoroom_56
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 291
+        width: 127
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c063537d7724aeb90800000000000000
+      internalID: -7211878770801297908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inferno-Village-2D-Platformer-Tileset2-Photoroom_57
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 291
+        width: 128
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 648510272cf08ba20800000000000000
+      internalID: 3078227673118496838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inferno-Village-2D-Platformer-Tileset2-Photoroom_58
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 291
+        width: 101
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1486ff55b0cd36b70800000000000000
+      internalID: 8891192030605043777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inferno-Village-2D-Platformer-Tileset2-Photoroom_59
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 291
+        width: 92
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8ff28d9b671a61a0800000000000000
+      internalID: -6815609335100276852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inferno-Village-2D-Platformer-Tileset2-Photoroom_60
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 291
+        width: 135
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed2d4804b52da6ed0800000000000000
+      internalID: -2419890560391916834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inferno-Village-2D-Platformer-Tileset2-Photoroom_61
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 46
+        width: 389
+        height: 219
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85beb319f6e39c450800000000000000
+      internalID: 6109483018403703640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inferno-Village-2D-Platformer-Tileset2-Photoroom_62
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 46
+        width: 390
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0aa7e3eb780e34b20800000000000000
+      internalID: 3117582240687487648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 57bb3bb10dcdf3e459c4b2fd6796e946
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Inferno-Village-2D-Platformer-Tileset2-Photoroom_0: 8424675365084149056
+      Inferno-Village-2D-Platformer-Tileset2-Photoroom_1: -1078959078781460157
+      Inferno-Village-2D-Platformer-Tileset2-Photoroom_10: -518178304788689342
+      Inferno-Village-2D-Platformer-Tileset2-Photoroom_11: 6758426003786159902
+      Inferno-Village-2D-Platformer-Tileset2-Photoroom_12: -637847195194851662
+      Inferno-Village-2D-Platformer-Tileset2-Photoroom_13: -1644502052684714358
+      Inferno-Village-2D-Platformer-Tileset2-Photoroom_14: -2288172593418669914
+      Inferno-Village-2D-Platformer-Tileset2-Photoroom_15: -5592091597694528641
+      Inferno-Village-2D-Platformer-Tileset2-Photoroom_16: -5775520607468734394
+      Inferno-Village-2D-Platformer-Tileset2-Photoroom_17: 4453804020487225020
+      Inferno-Village-2D-Platformer-Tileset2-Photoroom_18: 7349989191129840985
+      Inferno-Village-2D-Platformer-Tileset2-Photoroom_19: -2660937470540220953
+      Inferno-Village-2D-Platformer-Tileset2-Photoroom_2: 6412038948220999740
+      Inferno-Village-2D-Platformer-Tileset2-Photoroom_20: 5227362734483632216
+      Inferno-Village-2D-Platformer-Tileset2-Photoroom_21: -2621515729091901230
+      Inferno-Village-2D-Platformer-Tileset2-Photoroom_22: 6578217961587769348
+      Inferno-Village-2D-Platformer-Tileset2-Photoroom_23: 537663046967065231
+      Inferno-Village-2D-Platformer-Tileset2-Photoroom_24: -7620801750997466067
+      Inferno-Village-2D-Platformer-Tileset2-Photoroom_25: 6623011425455276224
+      Inferno-Village-2D-Platformer-Tileset2-Photoroom_26: -994857834159234059
+      Inferno-Village-2D-Platformer-Tileset2-Photoroom_27: -4488457053217096767
+      Inferno-Village-2D-Platformer-Tileset2-Photoroom_28: 5991863658928599463
+      Inferno-Village-2D-Platformer-Tileset2-Photoroom_29: -2843964592095673634
+      Inferno-Village-2D-Platformer-Tileset2-Photoroom_3: 1373884527982424703
+      Inferno-Village-2D-Platformer-Tileset2-Photoroom_30: -3271712374619280123
+      Inferno-Village-2D-Platformer-Tileset2-Photoroom_31: 44088034128676819
+      Inferno-Village-2D-Platformer-Tileset2-Photoroom_32: 9110816453486334199
+      Inferno-Village-2D-Platformer-Tileset2-Photoroom_33: -4645387197383808329
+      Inferno-Village-2D-Platformer-Tileset2-Photoroom_34: 4567323476287443463
+      Inferno-Village-2D-Platformer-Tileset2-Photoroom_35: -4514118445093041382
+      Inferno-Village-2D-Platformer-Tileset2-Photoroom_36: 2363938715147944563
+      Inferno-Village-2D-Platformer-Tileset2-Photoroom_37: 2592234331868642111
+      Inferno-Village-2D-Platformer-Tileset2-Photoroom_38: 6643817486298833666
+      Inferno-Village-2D-Platformer-Tileset2-Photoroom_39: 206853331232118634
+      Inferno-Village-2D-Platformer-Tileset2-Photoroom_4: 57768145948084744
+      Inferno-Village-2D-Platformer-Tileset2-Photoroom_40: 5813278681028317303
+      Inferno-Village-2D-Platformer-Tileset2-Photoroom_41: 5207518568850611425
+      Inferno-Village-2D-Platformer-Tileset2-Photoroom_42: 4946487880782094389
+      Inferno-Village-2D-Platformer-Tileset2-Photoroom_43: 1264958148793668906
+      Inferno-Village-2D-Platformer-Tileset2-Photoroom_44: -2987046104463585618
+      Inferno-Village-2D-Platformer-Tileset2-Photoroom_45: -8840074079113983956
+      Inferno-Village-2D-Platformer-Tileset2-Photoroom_46: -8433635687923727446
+      Inferno-Village-2D-Platformer-Tileset2-Photoroom_47: 1384263887896953541
+      Inferno-Village-2D-Platformer-Tileset2-Photoroom_48: 4139833805689534528
+      Inferno-Village-2D-Platformer-Tileset2-Photoroom_49: -4920483696421362944
+      Inferno-Village-2D-Platformer-Tileset2-Photoroom_5: 9073041659908474302
+      Inferno-Village-2D-Platformer-Tileset2-Photoroom_50: -394537372006594780
+      Inferno-Village-2D-Platformer-Tileset2-Photoroom_51: 8906916221090151470
+      Inferno-Village-2D-Platformer-Tileset2-Photoroom_52: -3115878686588573538
+      Inferno-Village-2D-Platformer-Tileset2-Photoroom_53: -4406544136561350983
+      Inferno-Village-2D-Platformer-Tileset2-Photoroom_54: 6860682340844005394
+      Inferno-Village-2D-Platformer-Tileset2-Photoroom_55: 64951628653325807
+      Inferno-Village-2D-Platformer-Tileset2-Photoroom_56: -7211878770801297908
+      Inferno-Village-2D-Platformer-Tileset2-Photoroom_57: 3078227673118496838
+      Inferno-Village-2D-Platformer-Tileset2-Photoroom_58: 8891192030605043777
+      Inferno-Village-2D-Platformer-Tileset2-Photoroom_59: -6815609335100276852
+      Inferno-Village-2D-Platformer-Tileset2-Photoroom_6: 2513870580277574415
+      Inferno-Village-2D-Platformer-Tileset2-Photoroom_60: -2419890560391916834
+      Inferno-Village-2D-Platformer-Tileset2-Photoroom_61: 6109483018403703640
+      Inferno-Village-2D-Platformer-Tileset2-Photoroom_62: 3117582240687487648
+      Inferno-Village-2D-Platformer-Tileset2-Photoroom_7: 8155244188156395059
+      Inferno-Village-2D-Platformer-Tileset2-Photoroom_8: -1412439038252521970
+      Inferno-Village-2D-Platformer-Tileset2-Photoroom_9: -7094717386147036231
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
